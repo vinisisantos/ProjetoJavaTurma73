@@ -1,6 +1,6 @@
 package lacos_condicionais;
 
-public class NãoInterativo {
+public class NaoInterativo {
 
 	public static void main(String[] args) {
 //		int idade = 25;
